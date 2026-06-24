@@ -1,3 +1,0 @@
-akib 0 25
-rakib 1 20
-sakib 2 20
