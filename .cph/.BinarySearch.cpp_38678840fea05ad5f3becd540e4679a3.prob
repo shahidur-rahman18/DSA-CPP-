@@ -1,0 +1,1 @@
+{"name":"Local: BinarySearch","url":"e:\\Phitron\\C++\\BinarySearch.cpp","tests":[{"id":1782395751361,"input":"6\n1 5 9 11 15 25\n15","output":"Found"},{"id":1782395822906,"input":"5\n2 4 5 7 8\n10","output":"Not Found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C++\\BinarySearch.cpp","group":"local","local":true}
