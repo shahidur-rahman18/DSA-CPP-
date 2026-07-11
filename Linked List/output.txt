@@ -1,5 +1,4 @@
-before delete 40
 10
 20
 30
-After delete 30
+40
